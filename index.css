@@ -1,0 +1,39 @@
+.info_box {
+	margin: 0 auto;
+	margin-top: 20px;
+	width: 85%;
+	height: 400px;
+	border: 1px solid #e5e5e5;
+	overflow: hidden;
+}
+.input {
+	position: relative;
+	display: block;
+	margin: 20px auto 20px;
+	margin-top: 20px;
+	width: 400px;
+	height: 30px;
+	border: none;
+	border: 1px solid #cccccc;
+	padding: 5px;
+}
+.button {
+	text-align: center;
+}
+.button button {
+	display: inline-block;
+	width: 160px;
+	height: 35px;
+	border: none;
+	background-color: #fff;
+	border-radius: 4px;
+}
+.button .send {
+	color: #e6501e;
+	border: 1px solid #e6501e;
+	margin-right: 5px;
+}
+.button .clear {
+	color: #b0a8a5;
+	border: 1px solid #b0a8a5;
+}
